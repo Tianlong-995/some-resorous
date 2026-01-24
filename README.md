@@ -41,7 +41,7 @@
 - PTC CREO【擅长复杂曲面建模】
 - UG【模具，CNC加工，工艺端常用】
 - SOLIDWORKS【CNC设计加工用的比较多，社区强大】
-- INVENTER【企业用的不多，主要是adobe公司开发的3维软件加分不少】
+- INVENTER【企业用的不多，主要是adobe公司开发的3维软件】
 
 ### 画图类
 - CAD
