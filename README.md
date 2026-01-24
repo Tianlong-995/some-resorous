@@ -51,7 +51,7 @@
 ### 软件编程类
 - VISUAL STUDIO
   
-## 资源类网站
+## ☁️资源类的网站
 -  [Z-LIBRARY](https://zh.z-lib.gd/)【下载电子书的网站】
 
 
