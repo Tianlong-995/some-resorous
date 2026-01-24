@@ -52,7 +52,7 @@
 - VISUAL STUDIO
   
 ## 资源类网站
--  [Z-LIBRARY](https://zh.z-lib.gd/)
+-  [Z-LIBRARY](https://zh.z-lib.gd/)【下载电子书的网站】
 
 
 
