@@ -17,7 +17,7 @@
     + [软件编程类](#软件编程类)
  
     
-- 🚀 [GITHUB上面有趣的资源](#GITHUB上面有趣的资源)
+- 🚀[GITHUB上面有趣的资源](#GITHUB上面有趣的资源)
  
   
 ## 写在前面
@@ -51,7 +51,7 @@
 - VISUAL STUDIO
 
 
-##🚀 GITHUB上面有趣的资源
+## 🚀GITHUB上面有趣的资源
 - [程序员怎么做饭?](https://github.com/Anduin2017/HowToCook) 
 - [计算机经典电子书与学习资源](https://github.com/GrindGold/pdf) 
 
