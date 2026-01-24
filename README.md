@@ -17,6 +17,7 @@
     + [Linux](#linux)
     + [其他](#其他)
 - [软件](#软件)
+- [GITHUB上面有趣的资源](#GITHUB上面有趣的资源)
  
   
 ## 写在前面
@@ -25,8 +26,15 @@
 - **✨ 但是有一样东西是永远不会变的，那就是相互分享的互联网精神！
 - **✨ 是的，我认为个人只要保留一个索引，然后只要互联网还在，那么知识就会永远都在，也欢迎大家也积极贡献各种优质的资源，我会花时间整理成册，发布在这里！
 
-[程序员怎么做饭?](https://github.com/Anduin2017/HowToCook) 
-[计算机经典电子书与学习资源](https://github.com/GrindGold/pdf) 
+
+- 结构设计
+
+
+
+
+## GITHUB上面有趣的资源
+- [程序员怎么做饭?](https://github.com/Anduin2017/HowToCook) 
+- [计算机经典电子书与学习资源](https://github.com/GrindGold/pdf) 
 
 
 
