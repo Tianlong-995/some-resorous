@@ -22,7 +22,7 @@
 + [建模类](#建模类)
 + [画图类](#画图类)
 + [软件编程类](#软件编程类)
-+ 
+
 </details>
 
 - 🎯[资源类的网站](#资源类的网站)
@@ -64,8 +64,9 @@
 -  [Z-LIBRARY](https://zh.z-lib.gd/) 【下载电子书的网站】
 
 
-
-## 🚀GITHUB上面有趣的资源
+ <details>
+  <summary>🚀 <b>GITHUB上面有趣的资源</b></summary>
+     
 - [程序员怎么做饭?](https://github.com/Anduin2017/HowToCook) 
 - [计算机经典电子书与学习资源](https://github.com/GrindGold/pdf)
 - [markdown语法的基本用法](https://github.com/guodongxiaren/README)
@@ -73,6 +74,8 @@
 - [996.icu](https://github.com/996icu/996.ICU)
 - [HelloGitHub一些有趣开源的项目](https://github.com/521xueweihan/HelloGitHub)
 - [GitHub中文排行榜](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts)
+
+</details>
 
 
 
