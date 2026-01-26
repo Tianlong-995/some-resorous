@@ -60,6 +60,9 @@
 - [计算机经典电子书与学习资源](https://github.com/GrindGold/pdf)
 - [markdown语法的基本用法](https://github.com/guodongxiaren/README)
 - [markdown语法的各种表情包](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#transport-air)
+- [996.icu](https://github.com/996icu/996.ICU)
+- [HelloGitHub一些有趣开源的项目](https://github.com/521xueweihan/HelloGitHub)
+- [GitHub中文排行榜](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts)
 
 
 
