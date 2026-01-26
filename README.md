@@ -57,6 +57,7 @@
 ## 🚀GITHUB上面有趣的资源
 - [程序员怎么做饭?](https://github.com/Anduin2017/HowToCook) 
 - [计算机经典电子书与学习资源](https://github.com/GrindGold/pdf)
+- [markdown语法的基本用法](https://github.com/guodongxiaren/README)
 - [markdown语法的各种表情包](https://github.com/ikatyang/emoji-cheat-sheet?tab=readme-ov-file#transport-air)
 
 
