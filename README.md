@@ -1,6 +1,6 @@
 # Effective-Resouirces
-
-个人收集的一些优质的书籍资源，整理成索引
+![Repo Size](https://img.shields.io/github/repo-size/Tianlong-995/some-resorous)
+- 个人收集的一些优质的书籍资源，整理成索引
 
 长期更新,欢迎Star or Fork
 
