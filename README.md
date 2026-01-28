@@ -1,7 +1,7 @@
 # Effective-Resouirces
 ![Repo Size](https://img.shields.io/github/repo-size/Tianlong-995/some-resorous)
 <p align="center">
-  <img src="其它/WarmBear.jpg" alt="项目截图" width="300">
+  <img src="其它/WarmBear.jpg" alt="项目截图" width="200">
 </p>
 - 个人收集的一些优质的书籍资源，整理成索引
 
