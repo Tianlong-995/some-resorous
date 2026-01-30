@@ -62,6 +62,8 @@
   
 ## 🎯资源类的网站
 -  [Z-LIBRARY](https://zh.z-lib.gd/) 【下载电子书的网站】
+-  [marinetraffic船讯网站](https://www.marinetraffic.com/en/ais/home/centerx:119.0/centery:18.9/zoom:3)
+-  [flightradar24飞机实时讯息网站](https://www.flightradar24.com/46.15,50.05/3)
 
 
 ## 🚀GITHUB上面有趣的资源   
