@@ -79,5 +79,11 @@
 
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tianlong-995/some-resorous&type=date&legend=top-left)](https://www.star-history.com/#Tianlong-995/some-resorous&type=date&legend=top-left)
+
+
+
 
 
