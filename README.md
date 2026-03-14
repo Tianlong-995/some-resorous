@@ -60,11 +60,17 @@
 ### 编程类软件
 - VISUAL STUDIO
   
-## 🎯资源类的网站
+## 🎯资源下载类的网站
 -  [Z-LIBRARY](https://zh.z-lib.gd/) 【下载电子书的网站】
+-  [qBittorrent增强版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+-  [1337种子下载网站](https://1337x.pro/trending/d/apps/)
 -  [marinetraffic船讯网站](https://www.marinetraffic.com/en/ais/home/centerx:119.0/centery:18.9/zoom:3)【可以看到全球船只的实时讯息】
 -  [flightradar24飞机实时讯息网站](https://www.flightradar24.com/46.15,50.05/3)【可以看到全球飞机的实时讯息】
 -  [中国裁判文书网](https://wenshu.court.gov.cn/)【中国裁判文书网】
+
+## 🪂装机用的网站
+- [微PE工具箱](https://www.wepe.com.cn/download.html)
+
 
 
 ## 🚀GITHUB上面有趣的资源   
@@ -76,7 +82,8 @@
 - [HelloGitHub一些有趣开源的项目](https://github.com/521xueweihan/HelloGitHub)
 - [GitHub中文排行榜](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts)
 - [关于优质AI内容的博客地址](https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b)
-- [qBittorrent增强版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+
+
 
 
 
