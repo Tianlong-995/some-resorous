@@ -76,6 +76,7 @@
 - [HelloGitHub一些有趣开源的项目](https://github.com/521xueweihan/HelloGitHub)
 - [GitHub中文排行榜](https://github.com/ChHsiching/GitHub-Chinese-Top-Charts)
 - [关于优质AI内容的博客地址](https://gist.github.com/emschwartz/e6d2bf860ccc367fe37ff953ba6de66b)
+- [qBittorrent增强版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 
 
 
