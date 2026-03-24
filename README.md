@@ -67,6 +67,8 @@
 -  [marinetraffic船讯网站](https://www.marinetraffic.com/en/ais/home/centerx:119.0/centery:18.9/zoom:3)【可以看到全球船只的实时讯息】
 -  [flightradar24飞机实时讯息网站](https://www.flightradar24.com/46.15,50.05/3)【可以看到全球飞机的实时讯息】
 -  [中国裁判文书网](https://wenshu.court.gov.cn/)【中国裁判文书网】
+-  [下载office的网站](https://github.com/YerongAI/Office-Tool)
+-  [下载解压缩7-ZIP的网站](https://www.7-zip.org/)
 
 ## 🪂装机用的网站
 - [微PE工具箱](https://www.wepe.com.cn/download.html)
