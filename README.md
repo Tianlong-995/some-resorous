@@ -61,7 +61,7 @@
 - VISUAL STUDIO
   
 ## 🎯资源下载类的网站
--  [Z-LIBRARY]([https://zh.z-lib.gd/](https://github.com/z-libraryopp/z-libraryopp.github.io) 【下载电子书的网站】
+-  [Z-LIBRARY](https://github.com/z-libraryopp/z-libraryopp.github.io) 【下载电子书的网站】
 -  [qBittorrent增强版本](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 -  [1337种子下载网站](https://1337x.pro/trending/d/apps/)
 -  [marinetraffic船讯网站](https://www.marinetraffic.com/en/ais/home/centerx:119.0/centery:18.9/zoom:3)【可以看到全球船只的实时讯息】
