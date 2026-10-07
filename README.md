@@ -69,6 +69,8 @@
 -  [中国裁判文书网](https://wenshu.court.gov.cn/)【中国裁判文书网】
 -  [下载office的网站](https://github.com/YerongAI/Office-Tool)
 -  [下载解压缩7-ZIP的网站](https://www.7-zip.org/)
+-  [下载视频/音频网站/yt-dlp](https://github.com/yt-dlp/yt-dlp?tab=readme-ov-file)
+-  [下载视频/音频网站/ffmpeg](https://www.gyan.dev/ffmpeg/)
 
 ## 🪂装机用的网站
 - [微PE工具箱](https://www.wepe.com.cn/download.html)
